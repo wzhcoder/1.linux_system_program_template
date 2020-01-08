@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "msg.h": "c",
+        "types.h": "c"
+    }
+}
